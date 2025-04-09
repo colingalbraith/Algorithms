@@ -44,6 +44,27 @@ python sort.py
 Interact with the GUI
 Each script opens an interactive window. Use the provided buttons (e.g., Start, Stop, Randomize, Push, Pop) to control how the algorithm runs.
 
+Examples:
+
+**Stack&Que.py**  
+
+![image](https://github.com/user-attachments/assets/83d7a0d5-823c-4544-80f2-9fafb8fba64e)
+
+**sort.py**
+
+![image](https://github.com/user-attachments/assets/886afa60-9d3e-4d68-b14f-6b12a44d8ea3)
+
+
+**Stable_Marriage_Visualization.py**  
+
+![image](https://github.com/user-attachments/assets/6c1371ba-f86a-48aa-8043-9d04cb2210de)
+
+
+**DFS&BFS.py** 
+
+![image](https://github.com/user-attachments/assets/a0dd8bc8-b79f-48f4-aa8f-a20feebd10f6)
+
+
 ## Contributing
 
 1) Fork this repository.
