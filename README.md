@@ -1,4 +1,4 @@
-# Algorithm Visualizations
+# Algorithm And Data Structure Visualizations
 
 This repository contains several **Python**-based visualizations for popular algorithms and data structures, including:
 
@@ -66,6 +66,11 @@ Examples:
 **DFS&BFS.py** 
 
 ![image](https://github.com/user-attachments/assets/a0dd8bc8-b79f-48f4-aa8f-a20feebd10f6)
+
+**kruskal-prim.py**
+
+![image](https://github.com/user-attachments/assets/1e988baf-b770-416f-946e-de0c03ff115c)
+
 
 
 ## Contributing
