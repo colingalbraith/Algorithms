@@ -6,6 +6,7 @@ This repository contains several **Python**-based visualizations for popular alg
 - **Sorting algorithms** (e.g., Bubble Sort, Insertion Sort, Merge Sort, Quick Sort)
 - **Stack and Queue** operations
 - **Stable Marriage Problem** (Gale–Shapley Algorithm)
+- **Kruskal and Prim** (Minimum Spanning Trees)
 
 ## Contents
 
