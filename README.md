@@ -21,6 +21,9 @@ This repository contains several **Python**-based visualizations for popular alg
 4. **Stable_Marriage_Visualization.py**  
    - Animates the **Stable Marriage Problem** using the Gale–Shapley algorithm.
 
+5. **Kruskal-prim.py**
+   - Animates Common Minimal spanning tree algorithms.
+
 ## Getting Started
 
 1. **Clone the repository**  
